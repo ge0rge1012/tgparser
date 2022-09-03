@@ -1,4 +1,4 @@
-# tgpsrser
+# tgparser
 What will you need to make the script work? 
 
 First of all, **python 3.5+** is required.
